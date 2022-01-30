@@ -1,1 +1,1 @@
-Spring Security - Basic Authentication ( InMemory ) 
+Spring Security - Basic Authentication and Authorization ( InMemory ) 
